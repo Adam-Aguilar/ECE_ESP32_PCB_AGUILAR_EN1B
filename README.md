@@ -20,6 +20,7 @@ specifically becoming an electronic engineer.
 |-------|--------|
 |  C++  |Beginner|
 |Arduino|Beginner|
+|PCB Design|Beginner|
 
 #Projects
 
